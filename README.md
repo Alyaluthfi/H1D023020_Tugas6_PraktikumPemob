@@ -53,15 +53,8 @@ void _kirimData() {
 ```
 ## 📱 Demo Aplikasi
 
-Ini adalah demo dan tangkapan layar dari aplikasi yang sudah jadi.
-
-### GIF Demo
-
 ![Demo Aplikasi Tugas 6](demo/DemoAplikasi_Tugas6.gif)
 
 ### Tangkapan Layar
-
-| Halaman Input | Halaman Output |
-| :---: | :---: |
 | ![Halaman Input Data](demo/input.png) | ![Halaman Tampil Data](demo/output.png) |
 
