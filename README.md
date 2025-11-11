@@ -56,5 +56,5 @@ void _kirimData() {
 ![Demo Aplikasi Tugas 6](demo/DemoAplikasi_Tugas6.gif)
 
 ### Tangkapan Layar
-| ![Halaman Input Data](demo/input.png) | ![Halaman Tampil Data](demo/output.png) |
+| ![Halaman Input Data](demo/Input.png) | ![Halaman Tampil Data](demo/Output.png) |
 
